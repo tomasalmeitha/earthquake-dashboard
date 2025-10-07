@@ -10,7 +10,7 @@ A simple React-based dashboard that visualizes real-time earthquake data.
 - Simulated real-time refresh every 30s
 
 ## Techstack
-React + TypeScript + Vite + React Query + Tailwind + CesiumJS + Recharts
+React + TypeScript + Vite + React Query + Tailwind + CesiumJS + Recharts + Vitest
 
 ## Setup
 ```bash
